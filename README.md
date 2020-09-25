@@ -15,6 +15,7 @@ Minimal build of front-end and back-end for quick development start.
 * [x] Koa router
 * [x] MongoDB as Mongoose
 * [x] Nodemon
+* [x] Webpack 4
 
 ## Commands
 
